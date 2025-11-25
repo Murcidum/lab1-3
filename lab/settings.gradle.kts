@@ -3,3 +3,4 @@ plugins {
 }
 rootProject.name = "lab"
 include("lab2")
+include("lab3")
