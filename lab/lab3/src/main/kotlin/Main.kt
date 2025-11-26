@@ -3,6 +3,7 @@ package myapp
 import myapp.decor.makeDecorations
 
 fun buildAquarium() {
+    print("TEST TEST TEST");
 //    val aquarium1 = Aquarium()
 //    aquarium1.printSize()
 //
